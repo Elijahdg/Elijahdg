@@ -16,7 +16,6 @@ I'm a Master of Science in Computer Science student at Stevens Institute of Tech
 
 - **Bachelor of Arts in Economics**  
   Montclair State University  
-  *Expected Graduation: January 15th, 2025*
 
 ## 💼 Experience
 
