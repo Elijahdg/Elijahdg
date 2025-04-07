@@ -12,7 +12,7 @@ I'm a Master of Science in Computer Science student at Stevens Institute of Tech
 
 - **Masters of Science in Computer Science**  
   Stevens Institute of Technology  
-  *January 2025 – May 2026 (Expected)*
+  *January 2025 – May 2026 
 
 - **Bachelor of Arts in Economics**  
   Montclair State University  
