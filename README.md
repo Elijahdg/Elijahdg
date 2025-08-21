@@ -31,7 +31,7 @@ I'm a Master of Science in Computer Science student at Stevens Institute of Tech
 ## 💼 Experience
 
 - **Software Engineering Intern – Logistics Platform**  
-  *Remote Project*  
+  *Transcaribe Express Shippers East Orange NJ *  
   *June 2024 – August 2024*  
   - Integrated **OpenAI’s API with LangChain in Python**, enabling natural language queries across 100+ logistics and billing data fields stored in Supabase and MongoDB, improving accessibility of shipment and billing insights for internal teams.  
   - Optimized database query performance by 40% through **schema refactoring, adding 15+ targeted indexes, and implementing Redis caching**, accelerating real-time reporting for 10K+ monthly shipment records.  
