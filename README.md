@@ -3,32 +3,58 @@
 I'm a Master of Science in Computer Science student at Stevens Institute of Technology with a strong foundation in research and data analysis, backed by a Bachelor of Arts in Economics from Montclair State University. I enjoy leveraging technology to solve real-world problems and continually learning new skills.
 
 #### 💻 Tech Stack
-**Languages** -
+**Languages** -  
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php)
 
+**Frameworks & Libraries** -  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
+![LangChain](https://img.shields.io/badge/-LangChain-1A1A1A?logo=openai)
+
+**Databases & Tools** -  
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis)
+
+---
 
 ## 🎓 Education
 
 - **Masters of Science in Computer Science**  
   Stevens Institute of Technology  
-  *January 2025 – December 2026 
+  *January 2025 – December 2026*  
+---
 
 ## 💼 Experience
 
-- **Research Assistant**  
-  *Cognition and Neurocognitive Disorders Research Lab, Hoboken, NJ*  
-  *January 2023 – May 2023*  
-  - Conducted exploratory data analysis using R.
-  - Collaborated closely with advisors and team members in a research-intensive environment.
-  
-  
+- **Software Engineering Intern – Logistics Platform**  
+  *Remote Project*  
+  *June 2024 – August 2024*  
+  - Integrated **OpenAI’s API with LangChain in Python**, enabling natural language queries across 100+ logistics and billing data fields stored in Supabase and MongoDB, improving accessibility of shipment and billing insights for internal teams.  
+  - Optimized database query performance by 40% through **schema refactoring, adding 15+ targeted indexes, and implementing Redis caching**, accelerating real-time reporting for 10K+ monthly shipment records.  
+  - Developed **8+ RESTful API endpoints in PHP** to retrieve and filter data from 25+ relational tables, reducing average customer service call time by 2 minutes for 3 agents through real-time data access.  
+  - Implemented **AI-powered query workflows** using OpenAI and LangChain in Python, cutting retrieval time from several minutes to under 60 seconds and reducing average call handling time by 20%.  
+  - Built **20+ automated UI tests in React with TypeScript and React Testing Library**, reducing post-deployment UI defects by 40% and improving reliability of production releases.  
 
+- **Student Researcher**  
+  *Montclair State Univeristy School of Business Little Falls NJ*  
+  *September 2024 – Febuary 2025*  
+- Cleaned 20M+ birth records with Python to isolate 2.8M high-quality cases, enabling robust analysis of Covid-19’s impact on birth weight and maternal health.
+- Co-led research project under faculty mentorship, defining inclusion criteria and standardizing preprocessing workflows to ensure data reproducibility and integrity for ongoing      public health studies.
+- Developed custom Pandas and NumPy scripts to automate outlier detection and data normalization, reducing preprocessing time by 60% compared to manual methods.
+- Tabulated 2.8M+ birth records in Python, summarizing data into categorical tables to support statistical analysis of COVID-19’s impact on maternal and neonatal health.
+
+
+---
 
 ## 📫 How to Reach Me
 
-- **Email:** [gervaisa1@montclair.edu](mailto:gervaisa1@montclair.edu)
-- **LinkedIn:** [Elijah Gervais](https://www.linkedin.com/in/elijah-g-118b17284)
+- **Email:** [egervais@stevens.edu](mailto:egervais@stevens.edu)  
+- **LinkedIn:** [Elijah Gervais](www.linkedin.com/in/elijahgervais)  
+
 
 <!--
 **Elijahdg/Elijahdg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
