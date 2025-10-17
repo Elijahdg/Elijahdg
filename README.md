@@ -34,7 +34,7 @@ I'm a Master of Science in Computer Science student at Stevens Institute of Tech
 
 ## 🎓 Education
 
-- **Masters of Science in Computer Science**  
+**Masters of Science in Computer Science**  
   Stevens Institute of Technology  
   *January 2025 – December 2026*
 
