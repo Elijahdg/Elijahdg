@@ -46,7 +46,7 @@ I'm a Master of Science in Computer Science student at Stevens Institute of Tech
 
 ---
 
-## 💼 Experience
+## Experience
 
 - **Software Engineering Intern – Logistics Platform**  
   *Transcaribe Express Shippers East Orange NJ*  
@@ -70,10 +70,11 @@ I'm a Master of Science in Computer Science student at Stevens Institute of Tech
 
 ---
 
-## 📫 How to Reach Me
+## Contact Information 
 
 - **Email:** [egervais@stevens.edu](mailto:egervais@stevens.edu)  
-- **LinkedIn:** [Elijah Gervais](www.linkedin.com/in/elijahgervais)  
+- **LinkedIn:** [Elijah Gervais](www.linkedin.com/in/elijahgervais)
+- **Kaggle :** 
 
 
 <!--
