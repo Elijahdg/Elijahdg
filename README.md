@@ -42,10 +42,10 @@ I'm a Master of Science in Computer Science student at Stevens Institute of Tech
 - **Student Researcher**  
   *Montclair State Univeristy School of Business Little Falls NJ*  
   *September 2024 – Febuary 2025*  
-- Cleaned 20M+ birth records with Python to isolate 2.8M high-quality cases, enabling robust analysis of Covid-19’s impact on birth weight and maternal health.
-- Co-led research project under faculty mentorship, defining inclusion criteria and standardizing preprocessing workflows to ensure data reproducibility and integrity for ongoing      public health studies.
-- Developed custom Pandas and NumPy scripts to automate outlier detection and data normalization, reducing preprocessing time by 60% compared to manual methods.
-- Tabulated 2.8M+ birth records in Python, summarizing data into categorical tables to support statistical analysis of COVID-19’s impact on maternal and neonatal health.
+  - Cleaned 20M+ birth records with Python to isolate 2.8M high-quality cases, enabling robust analysis of Covid-19’s impact on birth weight and maternal health.
+  - Co-led research project under faculty mentorship, defining inclusion criteria and standardizing preprocessing workflows to ensure data reproducibility and integrity for ongoing      public health studies.
+  - Developed custom Pandas and NumPy scripts to automate outlier detection and data normalization, reducing preprocessing time by 60% compared to manual methods.
+  - Tabulated 2.8M+ birth records in Python, summarizing data into categorical tables to support statistical analysis of COVID-19’s impact on maternal and neonatal health.
 
 
 ---
