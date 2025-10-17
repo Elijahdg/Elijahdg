@@ -40,7 +40,7 @@ I'm a Master of Science in Computer Science student at Stevens Institute of Tech
 
 **Bachelor of Arts in Economics**  
 *Montclair State University* — Montclair, NJ  
-📆 *August 2020 – January 2025*  
+*August 2020 – January 2025*  
 **Courses:** Game Theory, Calculus 1, Time Series Forecasting, Econometrics, Macroeconomics and Microeconomics
 
 
