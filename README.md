@@ -4,11 +4,12 @@ I'm a Master of Science in Computer Science student at Stevens Institute of Tech
 
 #### 💻 Tech Stack
 **Languages** -  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 
 **Frameworks & Libraries** -  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
