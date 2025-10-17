@@ -1,6 +1,6 @@
 # Elijah Gervais 
 
-I'm a Master of Science in Computer Science student at Stevens Institute of Technology with a strong foundation in research and data analysis, backed by a Bachelor of Arts in Economics from Montclair State University. I enjoy leveraging technology to solve real-world problems and continually learning new skills.
+I'm a Master of Science in Computer Science student at Stevens Institute of Technology with a foundation in research, algorithm design,data analysis.  I attended Montclair State University for my undergraduate degree and graduate with a Bachelor of Arts in Economics. 
 
 #### Tech Stack -> 
 **Languages** -  
