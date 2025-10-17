@@ -2,7 +2,7 @@
 
 I'm a Master of Science in Computer Science student at Stevens Institute of Technology with a strong foundation in research and data analysis, backed by a Bachelor of Arts in Economics from Montclair State University. I enjoy leveraging technology to solve real-world problems and continually learning new skills.
 
-#### 💻 Tech Stack
+#### Tech Stack -> 
 **Languages** -  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -24,11 +24,16 @@ I'm a Master of Science in Computer Science student at Stevens Institute of Tech
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
 
 
-**Databases & Tools** -  
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis)
+**Databases**  
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+
+
+**Developer Tools** 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ---
 
 ## 🎓 Education
