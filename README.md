@@ -47,6 +47,8 @@ I'm a Master of Science in Computer Science student at Stevens Institute of Tech
   - Developed custom Pandas and NumPy scripts to automate outlier detection and data normalization, reducing preprocessing time by 60% compared to manual methods.
   - Tabulated 2.8M+ birth records in Python, summarizing data into categorical tables to support statistical analysis of COVID-19’s impact on maternal and neonatal health.
 
+- ** Externship Intern - AI Education Startup**
+- *October 2024 - Decemeber 2024* 
 
 ---
 
