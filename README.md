@@ -32,11 +32,14 @@ I'm a Master of Science in Computer Science student at Stevens Institute of Tech
 
 ---
 
-## 🎓 Education
+## Education
 
 **Masters of Science in Computer Science**  
   Stevens Institute of Technology  
   *January 2025 – December 2026*
+
+
+  **Courses :** Algorithms, Web Programming, Mathematical Foundations of Machine Learning,Fundamentals of Computing
 
 **Bachelor of Arts in Economics**  
 *Montclair State University* — Montclair, NJ  
