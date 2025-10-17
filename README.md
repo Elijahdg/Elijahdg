@@ -12,8 +12,17 @@ I'm a Master of Science in Computer Science student at Stevens Institute of Tech
 
 
 **Frameworks & Libraries** -  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
-![LangChain](https://img.shields.io/badge/-LangChain-1A1A1A?logo=openai)
+**Python**  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=chainlink&logoColor=white)
+
+**JavaScript**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Axios](https://img.shields.io/badge/Axios-671ddf?style=for-the-badge&logo=axios&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+
 
 **Databases & Tools** -  
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase)
@@ -26,7 +35,12 @@ I'm a Master of Science in Computer Science student at Stevens Institute of Tech
 
 - **Masters of Science in Computer Science**  
   Stevens Institute of Technology  
-  *January 2025 – December 2026*  
+  *January 2025 – December 2026*
+
+- **Bachelors of Arts Economics**
+  Montclair State University
+  *August 2020 - January 2025* 
+
 ---
 
 ## 💼 Experience
