@@ -32,8 +32,6 @@ I'm a Master of Science in Computer Science student at Stevens Institute of Tech
 
 
 
-**Developer Tools** 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ---
 
 ## 🎓 Education
