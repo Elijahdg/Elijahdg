@@ -2,7 +2,6 @@
 
 I'm a Master of Science in Computer Science student at Stevens Institute of Technology with a foundation in research, algorithm design,data analysis.  I attended Montclair State University for my undergraduate degree and graduate with a Bachelor of Arts in Economics. 
 
-#### Tech Stack -> 
 **Languages** -  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
