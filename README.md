@@ -4,11 +4,6 @@ I am a Master of Science in Computer Science student at Stevens Institute of Tec
 Although my major is computer science, I have a strong passion for mathematics and philosophy, and I hope to integrate these interests into both my professional work and the personal projects I develop. I am motivated not only to understand how systems work, but why they work and how data models real-world behavior, how abstractions shape outcomes, and how theory translates into practice.
     I view my coursework not as an endpoint, but as an entry point. Classes introduce foundational concepts, but I believe true understanding is reinforced through sustained exploration beyond the classroom. With that mindset, I am actively learning about distributed systems, data intensive architectures, and advanced algorithmic design, focusing on building intuition through continuous exposure and hands-on experimentation.
 
-**Languages** -  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 
 **Frameworks & Libraries** -  
 ### Languages
