@@ -1,4 +1,4 @@
-# Logic is the foundation of the certainty of all the knowledge we acquire. - Leonhard Euler 
+# Logic is the foundation of the certainty of all the knowledge we acquire. 
 
 I am a Master of Science in Computer Science student at Stevens Institute of Technology, currently studying algorithm design and analysis, data analysis, and machine learning. My academic path began in economics, where I earned a Bachelor of Arts from Montclair State University. That background introduced me to a quantitative way of viewing the world and sparked my interest in computer science as a means of developing a deeper, systems-based way of thinking.
 Although my major is computer science, I have a strong passion for mathematics and philosophy, and I hope to integrate these interests into both my professional work and the personal projects I develop. I am motivated not only to understand how systems work, but why they work and how data models real-world behavior, how abstractions shape outcomes, and how theory translates into practice.
