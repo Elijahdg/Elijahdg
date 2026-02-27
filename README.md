@@ -29,18 +29,20 @@ Although my major is computer science, I have a strong passion for mathematics a
 
 ## Education
 
-**Masters of Science in Computer Science**  
+**M.S Computer Science**  
   Stevens Institute of Technology  
   *January 2025 – December 2026*
 
 
-  **Courses :** Algorithms, Web Programming, Mathematical Foundations of Machine Learning, Fundamentals of Computing
+  **Courses :** Web Programming 1, Web Programming 2,  Mathematical Foundations of Machine Learning, Deep Learning, Introduction to Stochastic Calculus, 
+  Intoduction to Financial Engineering 
+  
 
-**Bachelor of Arts in Economics**  
+**B.A in Economics**  
 *Montclair State University* — Montclair, NJ  
 *August 2020 – January 2025*  
 
-**Courses:** Game Theory, Calculus 1, Time Series Forecasting, Econometrics, Macroeconomics and Microeconomics, Healthcare Economics
+**Courses:** Game Theory, Calculus 1, Time Series Forecasting, Econometrics
 
 
 ---
@@ -53,7 +55,7 @@ Although my major is computer science, I have a strong passion for mathematics a
   *June 2024 – Present*  
   - Created a backend API that was deployed via railway to normalize data coming through an ETL pipeline to normalize data on a constient manner 
   - Optimized database query performance by 40% through **schema refactoring, adding 15+ targeted indexes, and implementing Redis caching**, accelerating real-time reporting for 10K+ monthly shipment records.  
-  - Developed **8+ RESTful API endpoints in PHP** to retrieve and filter data from 25+ relational tables, reducing average customer service call time by 2 minutes for 3 agents through real-time data access.  
+  - Developed **8+ RESTful API endpoints in Javascript** to retrieve and filter data from 25+ relational tables, reducing average customer service call time by 2 minutes for 3 agents through real-time data access.  
   - Implemented **AI-powered query workflows** using OpenAI and LangChain in Python, cutting retrieval time from several minutes to under 60 seconds and reducing average call handling time by 20%.  
   - Built **20+ automated UI tests in React with TypeScript and React Testing Library**, reducing post-deployment UI defects by 40% and improving reliability of production releases.  
 
