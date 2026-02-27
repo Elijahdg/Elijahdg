@@ -50,9 +50,9 @@ Although my major is computer science, I have a strong passion for mathematics a
 ## Experience
 
 
-- **Fullstack Software Engineering Intern – Logistics Platform**  
+- **Fullstack Software Engineer – Logistics Platform**  
   *Transcaribe Express Shippers East Orange NJ*  
-  *June 2024 – Present*  
+  *June 2025 – Present*  
   - Created a backend API that was deployed via railway to normalize data coming through an ETL pipeline to normalize data on a constient manner 
   - Optimized database query performance by 40% through **schema refactoring, adding 15+ targeted indexes, and implementing Redis caching**, accelerating real-time reporting for 10K+ monthly shipment records.  
   - Developed **8+ RESTful API endpoints in Javascript** to retrieve and filter data from 25+ relational tables, reducing average customer service call time by 2 minutes for 3 agents through real-time data access.  
