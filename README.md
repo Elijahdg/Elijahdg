@@ -5,7 +5,7 @@ Although my major is computer science, I have a strong passion for mathematics a
     I view my coursework not as an endpoint, but as an entry point. Classes introduce foundational concepts, but I believe true understanding is reinforced through sustained exploration beyond the classroom. With that mindset, I am actively learning about distributed systems, data intensive architectures, and advanced algorithmic design, focusing on building intuition through continuous exposure and hands-on experimentation.
 
 
-![Elijah's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark)
+![Elijah's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Elijahdg&theme=github-dark)
 
 
 ### Languages
