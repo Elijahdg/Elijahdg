@@ -5,26 +5,45 @@ Although my major is computer science, I have a strong passion for mathematics a
     I view my coursework not as an endpoint, but as an entry point. Classes introduce foundational concepts, but I believe true understanding is reinforced through sustained exploration beyond the classroom. With that mindset, I am actively learning about distributed systems, data intensive architectures, and advanced algorithmic design, focusing on building intuition through continuous exposure and hands-on experimentation.
 
 
+![Elijah's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark)
+
+
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Typescript]
 
-### Python Ecosystem
+### Data Handling & Visualization 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas] 
+![C++ Boost] 
+![AlphaVantage] 
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=chainlink&logoColor=white)
 
-### Frontend & Visualization
+ 
+### Frontend Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Axios](https://img.shields.io/badge/Axios-671ddf?style=for-the-badge&logo=axios&logoColor=white)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
 
-### Databases & Caching
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Backend Stack
+![Express] 
+![Next.js] 
+![Graph-QL]
+![Mongoose] 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Technologies 
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Apache Kafka] 
+![Elastic Search] 
+![Firebase]
+![Apollo-Server] 
+
 
 
 ## Education
@@ -48,7 +67,6 @@ Although my major is computer science, I have a strong passion for mathematics a
 ---
 
 ## Experience
-
 
 - **Fullstack Software Engineer – Logistics Platform**  
   *Transcaribe Express Shippers East Orange NJ*  
